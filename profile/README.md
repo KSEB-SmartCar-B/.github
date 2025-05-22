@@ -1,7 +1,7 @@
 
 # :sparkles:
-###   _2024. 08. 29 K-Software Empowerment Bootcamp - 우수상(정보통신기획평가원장상)_
-###   _2024. 11. 07 Kyonggi Software Fest - 우수상(경기대학교 총장상)_
+###   _2024. 08. 29 K-Software Empowerment Bootcamp - 🥈우수상(정보통신기획평가원장상)_
+###   _2024. 11. 07 Kyonggi Software Fest - 🥈우수상(경기대학교 총장상)_
 
 ![화면 캡처 2025-05-22 093908](https://github.com/user-attachments/assets/2d2532a6-b24a-426b-9d29-2194681803f3)
 
